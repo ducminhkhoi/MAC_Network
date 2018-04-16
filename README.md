@@ -2,7 +2,7 @@
 
 This is the Pytorch Implementation of [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067)
 
-1. Download **CLEVR** dataset from: [https://cs.stanford.edu/people/jcjohns/clevr/](https://cs.stanford.edu/people/jcjohns/clevr/)
+1. Download and extract **CLEVR** dataset from: [https://cs.stanford.edu/people/jcjohns/clevr/](https://cs.stanford.edu/people/jcjohns/clevr/), then put it in folder `data/`
 
 2. Create folder weights to store snapshot of the model while training.
 
